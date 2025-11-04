@@ -81,7 +81,7 @@ GEM
     bindex (0.8.1)
     bootsnap (1.18.6)
       msgpack (~> 1.2)
-    brakeman (7.1.0)
+    brakeman (7.1.1)
       racc
     builder (3.3.0)
     capybara (3.40.0)
@@ -357,10 +357,10 @@ DEPENDENCIES
   jbuilder
   puma (>= 5.0)
   rails (~> 7.2.2, >= 7.2.2.1)
-  rspec-rails
-  rswag-api
-  rswag-specs
-  rswag-ui
+  rspec-rails (~> 8.0)
+  rswag-api (~> 2.16)
+  rswag-specs (~> 2.16)
+  rswag-ui (~> 2.16)
   rubocop-rails-omakase
   selenium-webdriver
   sprockets-rails
