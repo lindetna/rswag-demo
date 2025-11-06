@@ -48,7 +48,7 @@ group :development, :test do
   gem "rubocop-rails-omakase", require: false
 
   gem "rspec-rails", "~> 8.0"
-  gem "rswag-specs", "~> 2.16"
+  gem "rswag-specs", "~> 2.17"
 end
 
 group :development do
