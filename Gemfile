@@ -35,7 +35,7 @@ gem "bootsnap", require: false
 # gem "image_processing", "~> 1.2"
 
 gem "rswag-api", "~> 2.16"
-gem "rswag-ui", "~> 2.16"
+gem "rswag-ui", "~> 2.17"
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
